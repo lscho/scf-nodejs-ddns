@@ -1,0 +1,15 @@
+{
+  "name": "ddns",
+  "description": "**中文** | [English](./README_EN.md)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tencentcloud-sdk-nodejs": "^4.0.243"
+  }
+}
